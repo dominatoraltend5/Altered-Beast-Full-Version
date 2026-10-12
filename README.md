@@ -241,4 +241,4 @@ This repository serves as the official landing page for Altered Beast. The softw
 **Get the most recent version of Altered Beast today!**
 
 ---
-**Last updated:** 2026-10-11 20:45:36 UTC
+**Last updated:** 2026-10-12 00:10:22 UTC
